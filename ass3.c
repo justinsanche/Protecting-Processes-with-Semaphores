@@ -1,7 +1,5 @@
 
 //Project 3
-//Mohammad Haque
-//U67439388
 
 #define TRUE 1
 #define SLEEP_TIME 1
